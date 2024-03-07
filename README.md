@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Deep-Learning researcher at the Optical <br>Networks and Technologies Lab, mainly focusing on techniques like <br>Knowledge Distillation, Federated Learning, Transfer Learning, and now <br>focusing on Diffusion Models.<br>I am actively looking for opportunities in this field.
+I am currently working as a Deep-Learning researcher at the Optical <br>Networks and Technologies Lab, mainly focusing on techniques like <br>Knowledge Distillation, Federated Learning, Transfer Learning, and now <br>focusing on Diffusion Models.<br>
 
 
 ## 🌐 Socials:
