@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Deep-Learning researcher at the Optical <br>Networks and Technologies Lab, mainly focusing on techniques like <br>Knowledge Distillation, Federated Learning, Transfer Learning, and now <br>focusing on Diffusion Models.<br>
+I am currently working as a Computer Vision intern at <br>SEECS NUST Islamabad, mainly focusing on techniques like <br>GRAD-CAM, Federated Learning, Transfer Learning,Knowledge ditillation and now <br>focusing on Diffusion Models.<br>
 
 
 ## 🌐 Socials:
