@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Computer Vision Engineer at <br>WALEE NUST Islamabad, mainly focusing on techniques like <br>GRAD-CAM, Federated Learning, Transfer Learning,Knowledge ditillation and now <br>focusing on Diffusion Models.<br>
+I am currently working as a Computer Vision researcher at <br>HSRM Germany, mainly focusing on<br>Diffusion models, LLMs, Document Understanding.<br>
 
 
 ## 🌐 Socials:
