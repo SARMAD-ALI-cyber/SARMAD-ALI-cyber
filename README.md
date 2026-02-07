@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year computer science student NUST, Islamabad, Pakistan. My work is focused on Document-AI, privacy preserving AI, Federated Learning, LLMs and CV.<br>
+I am a final year computer science student at NUST, Islamabad, Pakistan. My work is focused on Document-AI, privacy preserving AI, Federated Learning, LLMs and CV.<br>
 
 
 ## 🌐 Socials:
