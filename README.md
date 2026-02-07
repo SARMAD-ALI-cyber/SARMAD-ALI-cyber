@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working as a Computer Vision researcher at <br>HSRM Germany, mainly focusing on<br>Diffusion models, LLMs, Document Understanding.<br>
+I am a final year computer science student NUST, Islamabad, Pakistan. My work is focused on Document-AI, privacy preserving AI, Federated Learning, LLMs and CV.<br>
 
 
 ## 🌐 Socials:
