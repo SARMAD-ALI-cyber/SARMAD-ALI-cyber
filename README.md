@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a final year computer science student at NUST, Islamabad, Pakistan. My work is focused on Document-AI, privacy preserving AI, Federated Learning, LLMs and CV.<br>
+I am a graduate in computer science student from NUST, Islamabad, Pakistan. I am currently working as a AI Backend Engineer at Sketric Solutions. My work is focused on Document-AI, privacy preserving AI, Federated Learning, LLMs, AI Harness, Agents and Computer Vision.<br>
 
 
 ## 🌐 Socials:
